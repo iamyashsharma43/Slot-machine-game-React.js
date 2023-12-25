@@ -5,8 +5,8 @@ Welcome to my React Slot Machine game! 🚀 Spin the reels and try your luck wit
 ## 🕹 How to Play
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/react-slot-machine.git
-   cd react-slot-machine
+   git clone https://github.com/iamyashsharma43/Slot-machine-game-React.js.git
+   cd Slot-machine-game-React.js
    ```
 
 2. Install dependencies.
