@@ -30,6 +30,6 @@ Welcome to my React Slot Machine game! 🚀 Spin the reels and try your luck wit
 Feel the excitement! Clone, install, and start spinning those reels.
 
 ## 📬 Connect
-Questions, suggestions, or just want to chat about the game? Connect with me on [LinkedIn](https://www.linkedin.com/in/yesitsyash) or drop me an email at (mailto:yesitsyash43@gmail.com).
+Questions, suggestions, or just want to chat about the game? Connect with me on [LinkedIn](https://www.linkedin.com/in/yesitsyashh) or drop me an email at (mailto:yesitsyash43@gmail.com).
 
 Happy gaming! 🎉✨
